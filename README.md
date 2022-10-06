@@ -12,13 +12,14 @@
 
 #### Notes 
 
-`git status`:
+`git status`: Shows what changes you've made to the files you created.
 
-`git add`:
+`git add`: Adds the files that the user wants to commit to the repository. In other words it lets git know what changes in the file are going to occur for the next commit.
 
-`git commit`:
+`git commit`: 
 
-`git push`:
+`git push`:  
+
 
 
 
