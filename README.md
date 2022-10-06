@@ -12,13 +12,13 @@
 
 #### Notes 
 
-`git status`:
+`git status`: git status allows us to get the status of our repositories and any changes or edits we made.
 
-`git add`:
+`git add`: git add allows us to prepare whatever changes or edits we made to our working directory to the staging area. 
 
-`git commit`:
+`git commit`:git commit allows us to send the cahnges we made with `git add` to the remote server.
 
-`git push`:
+`git push`:git push allows 
 
 
 
