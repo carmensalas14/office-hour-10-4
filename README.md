@@ -14,7 +14,6 @@
 
 `git status`:
 checks content of the working directory such as modified files
-
 `git add`:
 add files from working directory to staging area
 `git commit`:
