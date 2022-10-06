@@ -18,7 +18,7 @@
 
 `git commit`:git commit allows us to send the cahnges we made with `git add` to the remote server.
 
-`git push`:git push allows 
+`git push`:git push allows us to be able to push to our commits to the remote repository.
 
 
 
