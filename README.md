@@ -12,13 +12,13 @@
 
 #### Notes 
 
-`git status`:
+`git status`: Git status allows you to see the status of what changes you have made throughout your repository.
 
-`git add`:
+`git add`: Git add is used when adding all the changes you have made to your staging area. And in the staging area you pick and choose what files you want to add or be committed.
 
-`git commit`:
+`git commit`: Git commit is a snapshot of your current repository. 
 
-`git push`:
+`git push`: Git push is pushing all the changes you have made from your local repo to your remote repo
 
 
 
