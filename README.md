@@ -16,9 +16,9 @@
 
 `git add`: Adds the files that the user wants to commit to the repository. In other words it lets git know what changes in the file are going to occur for the next commit.
 
-`git commit`: 
+`git commit`: The process by which you document the changes made to your repository
 
-`git push`:  
+`git push`:  Pushes your local commit history into a remote repository
 
 
 
