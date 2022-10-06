@@ -18,8 +18,8 @@ checks content of the working directory such as modified files
 `git add`:
 add files from working directory to staging area
 `git commit`:
-
-`git push`:
+stores file in the stsging are basically takes a snapshot
+`git push`:pushes them to the remote repository 
 
 
 
