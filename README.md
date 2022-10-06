@@ -1,19 +1,24 @@
-# office-hour-10-4
+# Unit-0 Git Office Hours
+
+### ToDo: 
+#### Today’s main objectives: Reviewing and practicing Git
+- Fork this repo on GitHub
+- Clone your forked repo to your local environment 
+- make edits to The README.md file, commit, and push changes
+- After pushing, create a branch when you make more changes to the repo 
+- Push the changes that you made on your branch 
+- On GitHub, create a pr and merge the branch to main 
+- on your local repo pull the updated version of main
 
 #### Notes 
 
-`git status` - will show you files that have been modied and what is different from your latest commit
+`git status`:
 
-files that have been modifies: 
-index.js
-index2.js
-index3.js
+`git add`:
 
-`git add` - we stage files to decide if they are apart of the next commit
+`git commit`:
 
-`git commit` - taking a snapshot of our repo at a given time 
-
-`git push` - taking the commits that are living in your local repo and moving them to the remote repo 
+`git push`:
 
 
 
